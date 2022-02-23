@@ -1,0 +1,123 @@
+@import "null.css";
+
+.wrapper{
+    margin-left: 45px;
+    max-width: 810px;
+}
+
+h1{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 49px;
+    line-height: 50px;
+    margin: 30px 0;
+    color: #1E212C;
+    max-width: 810px;
+}
+
+.calendar{
+    background: url(../img/calendar.svg) no-repeat;
+    background-position: 0;
+    color: #787A80;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 160%;
+    margin: 0 auto;
+    padding-left: 25px;
+    display: inline-block;
+}
+
+.clock{
+    background: url(../img/clock.svg) no-repeat;
+    background-position: 0;
+    color: #787A80;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 160%;
+    margin-left: 15px;
+    padding-left: 25px;
+    display: inline-block;
+}
+
+.socials{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 160%;
+    display: block;
+    align-items: center;
+    color: #1E212C;
+    float: right;
+}
+
+.icon{
+    width: 20px;
+    height: 20px;
+    padding-left: 5px;
+}
+
+.image{
+    margin: 15px 0;
+}
+
+.paragraph_one{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 150%;
+    margin-bottom: 15px;
+    color: #1E212C;
+    max-width: 810px;
+}
+
+.paragraph_two{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 160%;
+    margin-bottom: 15px;
+    color: #424551;
+    max-width: 810px;
+}
+
+.paragraph_three{
+    background: url(../img/braces.svg) no-repeat;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 150%;
+    margin-bottom: 15px;
+    padding-left: 60px;
+    color: #1E212C;
+    max-width: 750px;
+}
+
+.paragraph_four{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 160%;
+    margin-bottom: 15px;
+    color: #424551;
+    max-width: 810px;
+}
+
+.list{
+    margin: 15px 0;
+}
+
+.list_item{
+    background: url(../img/check.svg) 0 no-repeat;
+    padding-left: 30px;
+    line-height: 160%;
+}
